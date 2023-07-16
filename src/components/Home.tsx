@@ -1,5 +1,4 @@
 import Box from "@mui/material/Box";
-import React from "react";
 import Button from "@mui/material/Button";
 import { Typography } from "@mui/material";
 
