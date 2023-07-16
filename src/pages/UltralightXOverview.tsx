@@ -10,10 +10,10 @@ const UltralightXOverview = () => {
         color: "#fff",
         display: "flex",
         justifyContent: "center",
-        alignItems: "center"
+        alignItems: "center",
       }}
     >
-        UltralightXOverview
+      UltralightXOverview
     </Box>
   );
 };
