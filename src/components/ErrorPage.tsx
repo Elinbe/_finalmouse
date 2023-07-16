@@ -1,5 +1,5 @@
 import { Typography } from "@mui/material";
-import { Box } from "@mui/system";
+import { Box } from "@mui/system"
 import { useRouteError } from "react-router-dom";
 
 const ErrorPage = () => {
